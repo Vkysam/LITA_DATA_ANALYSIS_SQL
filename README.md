@@ -1,4 +1,9 @@
+#VICTORIA SAMUEL_ DATA ANALYST PORTFOLIO 
+
 # LITA-DATA-ANALYSIS-DOCUMENTATION
-This is where I want to put my progress report ON LITA DATA ANALYSIS INCUBATOR HUB CLASS
-## LITA_DATA_ANALYSIS_DOCUMENTATION
-### LITA_DATA_ANALSIS_DOCUMENTATION
+
+### Tech Store Sales Analysis
+
+**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+
+
