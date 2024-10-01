@@ -18,6 +18,10 @@ The primary source data used here is a CSV data file to and this an open source 
 
 **Technology:** SQL Server
 
+### Tools Used
+Microsoft Excel for Data cleaning and visualization
+SQL- Structured Querry Language for data querrying
+Github- for portfolio Building
 
 
 
