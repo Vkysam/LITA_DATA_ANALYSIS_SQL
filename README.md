@@ -64,4 +64,8 @@ The initail phase of data cleaning and preparations,we perform the following act
 3. Data cleaningand formatting
 
 ### Exploratoratory Data Analysis
-EDA involved the exploring of the Data
+EDA involved the exploring of the Data to answer some questions about the Data such as:
+ - What is the overall sales trend
+ - Which product are top sellers
+ - What are the products on peak sales
+   
