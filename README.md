@@ -17,6 +17,9 @@ To know the country with the highest profits and the btand that brought in more 
 
 **Technology:** SQL Server
 
+
+
+
 **Skills:** data analysis, data visualization, 
 
 
