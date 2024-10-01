@@ -53,3 +53,5 @@ Some expressions used during the Analysis;
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+
