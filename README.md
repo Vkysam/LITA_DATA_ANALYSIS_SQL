@@ -73,4 +73,7 @@ order by 2 desc
 ![Screenshot 2024-09-26 204217](https://github.com/user-attachments/assets/2dd3ba81-e8fa-464c-8323-529545ab761c)
 
 
+ 💻
+ 
+ 🥇
 
