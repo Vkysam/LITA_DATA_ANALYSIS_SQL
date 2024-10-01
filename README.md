@@ -54,4 +54,15 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
+```SQL
+select brands, SUM(profit) as totalprofit
+from table1
+where countries = 
+Group by Brands 
+order by 2 desc
+```
+
+### Data Visualization
+
+![Screenshot 2024-10-01 115046](https://github.com/user-attachments/assets/1b7ff397-227c-4022-92d0-19ef2969892d)
 
