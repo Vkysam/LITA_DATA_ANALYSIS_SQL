@@ -28,3 +28,40 @@ The primary source data used here is a CSV data file to and this an open source 
 **Skills:** data analysis, data visualization, 
 
 
+### Codes used
+ 1. select * from[International Breweries eccel]
+    
+ 2. select SUM (profit) as Totalprofit from [International Breweries eccel]
+where countries = 'Nigeria'and years ='2019'
+
+3. select SUM (profit) as Totalprofit from [International Breweries eccel]
+
+4. select SUM (profit) as Totalprofit from [International Breweries eccel]
+where countries = 'senegal'
+
+5. select brands, SUM(profit) as totalprofit
+from [International Breweries eccel]
+where countries = 'Nigeria'and YEARS = '2017'
+Group by Brands 
+order by 2 desc
+
+6. Group by Brands 
+order by 2 desc
+
+7. SELECT countries,
+  CASE
+ WHEN COUNTRIES IN ('Nigeria','Ghana') then 'ANGLOPHONE'
+	ELSE 'FRANCOPHONE'
+END as CountriesGroup,
+sum (profit) as Totalprofit from [international breweries eccel]
+where years in ('2017', '2018', '2019')
+Group by Countries
+
+### Data Cleaning and Preparations
+The initail phase of data cleaning and preparations,we perform the following action;
+1.Dta loading and inspection
+2. Handling missing variables
+3. Data cleaningand formatting
+
+### Exploratoratory Data Analysis
+EDA involved the exploring of the Data
