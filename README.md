@@ -29,33 +29,10 @@ The primary source data used here is a CSV data file to and this an open source 
 
 
 ### Codes used
- 1. select * from[International Breweries eccel]
+  select 
+  *
+  FROM
     
- 2. select SUM (profit) as Totalprofit from [International Breweries eccel]
-where countries = 'Nigeria'and years ='2019'
-
-3. select SUM (profit) as Totalprofit from [International Breweries eccel]
-
-4. select SUM (profit) as Totalprofit from [International Breweries eccel]
-where countries = 'senegal'
-
-5. select brands, SUM(profit) as totalprofit
-from [International Breweries eccel]
-where countries = 'Nigeria'and YEARS = '2017'
-Group by Brands 
-order by 2 desc
-
-6. Group by Brands 
-order by 2 desc
-
-7. SELECT countries,
-  CASE
- WHEN COUNTRIES IN ('Nigeria','Ghana') then 'ANGLOPHONE'
-	ELSE 'FRANCOPHONE'
-END as CountriesGroup,
-sum (profit) as Totalprofit from [international breweries eccel]
-where years in ('2017', '2018', '2019')
-Group by Countries
 
 ### Data Cleaning and Preparations
 The initail phase of data cleaning and preparations,we perform the following action;
@@ -69,3 +46,10 @@ EDA involved the exploring of the Data to answer some questions about the Data s
  - Which product are top sellers
  - What are the products on peak sales
    
+### Data Analysi
+Some expressions used during the Analysis;
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
