@@ -2,14 +2,16 @@
 
 # LITA-DATA-ANALYSIS-DOCUMENTATION
 
-### Salary Analysis for XYZ.COM
-
+### International Breweries Data Exploration Analysis
+# CSV data file to SQL for analysis
 
 **Goal:** 
-To examine the employee(s) salary history of the store and extract insights on its performance, as well as to identify potential increment that can be implemented.
-
+To examine the profits for each country and also profit for each geopolitical zone
+To know the country with the highest profits and the btand that brought in more profit
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 **Technology:** SQL Server
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Skills:** data analysis, data visualization, 
+
+
