@@ -77,3 +77,6 @@ order by 2 desc
  
  🥇
 
+|Heading 1|Headung 2|Headind 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
