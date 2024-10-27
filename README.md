@@ -108,3 +108,58 @@ order by 2 desc
 |Heading 1|Headung 2|Headind 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
+
+
+
+### HUMAN RESOURCES DATASET ANALYSIS
+
+### GOAL 
+---
+To eaxamine the Attrition of both current and past staff, find the leach and device a sustanable strength for growth and stability
+
+### DESCRIPTION
+---
+The dataset contains records of Staff, Attrition, Age Category, region, months, years of service. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+### DATA SOURCE 
+---
+The primary source data used here is an excel data file to and this an open source data from sites such as KAGGLEor FRED or any other repository site.
+
+### Technology Used
+---
+1. EXCEL 
+2. POWER BI
+
+### Tools Used
+---
+- Microsoft Excel [Download here](https://www.microsoft.com)
+     1. for Data cleaning
+-Power BI
+     1. visualization
+     2. Analysis
+     3. Cleaning
+- SQL- Structured Querry Language for data querrying
+- Github- for portfolio Building
+
+
+### Data Cleaning and Preparations
+---
+The initail phase of data cleaning and preparations,we perform the following action;
+1.Dta loading and inspection
+2. Handling missing variables
+3. Data cleaningand formatting
+
+### Exploratoratory Data Analysis
+---
+EDA involved the exploring of the Data to answer some questions about the Data such as:
+ - What is the overall sales trend
+ - Which product are top sellers
+ - What are the products on peak sales
+   
+### Data Analysis
+---
+![Screenshot 2024-10-26 181516](https://github.com/user-attachments/assets/9824f330-ea96-4588-ad84-1a8a95135b4f)
+
+### REPORT ON THE ANALYSIS
+---
+
