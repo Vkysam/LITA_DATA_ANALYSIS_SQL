@@ -162,4 +162,20 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 ### REPORT ON THE ANALYSIS
 ---
+The report on the Dataset refers:
+-Total Employee =1470
+-Total Attrition =237
+-Total Current Employee = 1233
+-Average Age of te toatl Employee = 37
+-Attrition Rate = 16%
+-Attrition Count by Department:
+1. Sales Dept = 92
+2. R & D Dept = 133
+-Attrition Count by Gender
+1. female = 87
+2. Male = 150
+
+### TOTAL SALES BY REGION AND UNIT SOLD
+![Screenshot 2024-10-23 132026](https://github.com/user-attachments/assets/3dc7feaf-7aed-40e2-97aa-42df8c189e48)
+
 
