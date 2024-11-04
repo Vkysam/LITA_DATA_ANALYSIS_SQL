@@ -4,16 +4,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # LITA-DATA-ANALYSIS-DOCUMENTATION
 
-[Goal](#goal)
-[Description](#Description)
-[Data Sources](#Data-Sources)
-[Technology Used](#Technology-Used)
-[Tools Used](#Tools-Used)
-[Skills](#Skills)
-[Data Cleaning and Preparations](#Data-Cleaning-and-Preparations)
-[Exploratoratory Data Analysis](#Exploratoratory-Data-Analysis)
-[Data Analysis](#Data-Analysis)
-[Data Visualization](#Data-Visualization)
 
 
 
